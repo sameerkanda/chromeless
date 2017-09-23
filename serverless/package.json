@@ -8,7 +8,7 @@
     "node": ">= 6.10.0"
   },
   "scripts": {
-    "deploy": "serverless deploy"
+    "deploy": "./deploy.sh"
   },
   "dependencies": {
     "aws4": "^1.6.0",
